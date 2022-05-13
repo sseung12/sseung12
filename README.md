@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 ## 🌱 I’m currently learning ...
   - docker,k8s
-  - RabbitMq
+  - Message Broker(RabbitMq)
   - AOP
   
 
