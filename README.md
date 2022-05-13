@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi I'm Junior Developer 👋
 
 <!--
 **sseung12/sseung12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src="https://img.shields.io/badge/java-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+## 🔭 I’m currently working on
+  - Data collection
+
+## 😄 my Stack
+  - java/springboot
+  - javascript
+  - mysql,oracle,redis
+  - Jpa
+  - aws(ec2,rds,s3,lambda,cloudFront,elb)
+
+## 🌱 I’m currently learning ...
+  - docker,k8s
+  - RabbitMq
+  - AOP
+  
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseung12&show_icons=true&theme=default)<br/>
