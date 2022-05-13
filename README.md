@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 🔭 I’m currently working on
-  - Data collection
+
 
 ## 😄 my Stack
   - java/springboot
@@ -31,4 +31,6 @@ Here are some ideas to get you started:
   
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseung12&show_icons=true&theme=default)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sseung12&show_icons=true&theme=dark)<br/>
+	<br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sseung12&layout=compact&theme=dark)
